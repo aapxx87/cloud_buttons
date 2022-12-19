@@ -6,4 +6,22 @@
 
 body {
     background: #333;
+    color: rgb(153, 148, 148);
+    font-family: Roboto;
+}
+
+.buttons_container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 40px 5px;
+    justify-content: center;
+}
+
+.cloud {
+    border: 1px solid rgb(114, 110, 110);
+    border-radius: 25px;
+    padding: 13px 22px;
+    text-transform: uppercase;
+    font-size: 12px;
 }
