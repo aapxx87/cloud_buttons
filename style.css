@@ -18,12 +18,12 @@ body {
 
 .navbar {
     width: 100%;
-    height: 35px;
+    height: 25px;
     background-color: #333;
     position: fixed;
     top: 0;
     left: 0;
-    box-shadow: 0px 26px 25px 24px #333;
+    box-shadow: 0px 20px 25px 24px #333;
 }
 
 
@@ -52,6 +52,9 @@ body {
     background-color: rgb(86, 83, 83);
 }
 
+.cloud:focus {
+    background-color: rgb(86, 83, 83);
+}
 
 /* ---- ACTIONS ---- */
 
